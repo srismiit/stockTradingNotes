@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-03-12T23:27:35+05:30
+
+====== Questions ======
+Created Saturday 12 March 2022
+
+1. Can we always use an intraday strategy for options scalping?
+2. Is there a good mathematical/statistical analysis w.r.t. win ratio and risk-reward ratio?

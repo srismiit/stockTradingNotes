@@ -1,0 +1,158 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-03-13T10:33:36+05:30
+
+====== KGS-CPRnSMABasedPTA ======
+Created Sunday 13 March 2022
+
+KGS: K Gomathi Shankar
+
+CPR: Price action indicator
+The approach is to use CPR with moving averages.
+Indicator usage -> you might become oblivious of candle prices/levels
+
+
+===== Scalping =====
+
+Scalping is solution for "Option-buying-disadvantage": premium decay
+   
+Scalping duration < Intraday duration
+Scalping profits are less: Huge wealth creation not possible
+
+Bank Nifty: Volatile and Liquid
+
+Book profits partially. (like pyramiding)
+
+===== 20-50 SMA Characteristics - RTP =====
+RTP - Railway Track Pattern - Somewhat parallel or non intersecting 20SMA and 50SMA lines.
+Chart convention
+We draw 20 SMA in green color, 50 SMA in red color and 200 SMA in Black color.
+Raising RTP (Bullish Market)
+- Bullish Market
+- candles get higher highs and newr day highs keep forming
+- visible at 10:00 and will be there for whole day.
+  - If you see RTP like think after 10:00 it is fake
+
+==== Trading ====
+- Take position: when day high is broken
+- SL: below 20 SMA or base of previous big candle
+- Target: CPR R1, R2 or (R1 + R2) / 2 
+
+Falling RTP (Bearish Market)
+Converse of Raising RTP
+
+
+===== 02:52:54 For sideways market =====
+Flat and zigzag 20/50 SMAs
+- Better not to trade
+- If you can do option selling
+- Or use 200 SMA
+- Try small scalping
+  
+
+==== 20 SMA Characteristic Small scalping ====
+- use a unique characteristic of 20 SMA (20 SMA attracts candles)
+
+visible at 9:15 itself - trade around this time. You cannot use it during rest of day
+Case 1: Candles start with gap up and move away from 20 SMA until R1/PDH and rebound from there towards 20 SMA back (attraction)
+its converse candles start gap down and move away from 20 SMA until S1/PDL and rebound from there towards 20 SMA back (attraction)
+Case 2: Candles start right at R1/PDH and get attracted towards 20 SMA
+its converse: Candles start right at S1/PDL and get attracted towards 20 SMA
+
+== Trading ==
+- Take position near R1/PDH (conversely S1/PDL)
+- SL: ?
+- Target: 20 SMA
+
+Use 200 SMA characteristic (1)
+In a sideways market one could use 200SMA characteristic (1) discussed below.
+
+===== 200 SMA characteristics =====
+
+
+* 200 SMA hates/repulses candles when 20-50 SMAa are flat and zig-zag
+   	- 20-50 SMA above 200 SMA
+   	- 20-50 SMA are forming zigzag pattern
+   	- 200 SMA will act like the support
+   	Conversely, 200 SMA hates candles when 20-50 SMAa are flat and zig-zag
+   	- 20-50 SMA below 200 SMA
+   	- 20-50 SMA are forming zigzag pattern
+   	- 200 SMA will act like the resistance
+* 200 SMA loves/attracts candles when 20-50 form RTP
+   	20/50 SMA crossing 200 SMA => High probable RTP
+
+   	terminology:
+   	- long unwinding / Sellers dominating
+   	- short convering / buyers emerging
+
+===== Pivot Points =====
+Six types of pivot points:
+1. Classic
+2. Traditionsl
+3. Fibonacci
+4. Denmark
+5. Woodie
+6. Camerilla
+
+Narrow CPR itself is not sufficient to identify a trending day.
+
+Narrow CPR + RTP => trending day
+
+If narrow CPR and no RTP => Next day usually has RTP
+
+If wide CPR and RTP => weak RTP.  Make quick profits.
+
+
+
+
+|          | Moving Average                                   | CPR                                                                         |
+|:---------|:-------------------------------------------------|:----------------------------------------------------------------------------|
+| Trending | RTP(20-50 parallel) / HP-RTP(20-50 breaking 200) | Narrow CPR / Inside CPR / Trend reversal CPR / Asc or Desc CPR / Virgin CPR |
+| Sideways | 20-50 flag and zigzag / 200 sma hate candles     | Wide CPR / Outside CPR / Camerilla + CPR / Asc or Desc DPR / Virgin CPR     |
+
+
+
+==== Ascending/Descending CPR ====
+virgin cpr --> somewhat like 200 sma (except reversal)
+(In contrast to Vikram Prabhu?)
+
+==== Open trick ====
+Direct trick (RTP) --> below PDL/S1
+Reversl --> exactly at PDL/S1
+
+He does not clearly bring out the concept, may be because he thinks it is discussed elsewhere (in his youtube videos(?) mostly).
+I think what he is trying to say is
+
+If market opens below PDL/S1 and are red candles, they are going to go down overall and RTP will be formed. Conversely if it opens above PDH/R1 and are green they will trend up and RTP will be formed
+If they open just above PDL/S1 but are red then they will reverse at PDL/S1 and go up towards CPR.  Conversely if they open below PDH/R1 and are green, they will reverse at PDH/R1 and go down towards CPR
+
+
+==== Inside CPR trick ====
+Day 2 CPR level contained within day 1 cpr level.
+=> Trending expected on Day 2. If not Day 3 would usually be trending.
+
+==== Outside CPR trick (rare to occur) ====
+It implies sideways market
+
+==== Trend reversal CPR ====
+In case of ASC CPR, right from the begining the second day candles start below CPR and start getting rejected by CPR. Conversely in case of DESC CPR, right from the begining the second day candles start above CPR and start getting rejected by CPR.
+
+RTP is expected
+
+determined by gap up/down also?
+Because it is event day, he uses the "fake" RTP formed in mid day also!
+
+==== Camerilla pivot points ====
+For Quick trading.
+Camerilla cpr has different formula
+Only R3 and S3 are used.
+- similar to 200 SMA reversal points 50% probability
+- To increase the probability use regular CPR
+  - High Probability (80%) reversal
+(We usually dont get RTP?))
+
+==== Repetitive patterns ====
+Candle stick psychology?
+First big red candle and subsequently lower candles.
+
+Don't watch nifty and Bank nifty together!
